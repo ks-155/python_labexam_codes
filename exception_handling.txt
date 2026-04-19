@@ -1,0 +1,5 @@
+exception=int(input("Enter first num: "))
+exception_2=int(input("Enter second num: "))
+try:
+
+
